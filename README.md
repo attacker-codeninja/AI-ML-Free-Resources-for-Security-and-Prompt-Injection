@@ -416,6 +416,7 @@ Key areas to test when assessing an LLM-powered application:
 | [Vigil LLM](https://github.com/deadbits/vigil-llm) | Stacked scanners: vector similarity, YARA, transformer classifier, canary tokens |
 | [InjecGuard](https://github.com/safolab-wisc/injecguard) | +30.8% over prior SOTA on NotInject benchmark, addresses false positives |
 | [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai) | Real-time detection across 12 languages, Claude Code attack vectors, MCP proxy |
+| [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) | Local Rust scanner for AI-agent prompt injection, credential leakage, exfiltration, MCP context, and risky tool-call enforcement |
 | [openclaw-bastion](https://github.com/AtlasPA/openclaw-bastion) | Detects Unicode homoglyphs, hidden HTML injection, zero-width character smuggling |
 | [BodAIGuard](https://github.com/AxonLabsDev/BodAIGuard) | 3-tier detection (regex, heuristics, structural), 42 block rules |
 | [tldrsec/prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) | Actively maintained catalog of every practical defense in production |
