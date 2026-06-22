@@ -135,6 +135,7 @@ Key attack vectors in AI/ML systems:
 - [Bugcrowd — AI Vulnerability Deep Dive: Prompt Injection](https://www.bugcrowd.com/blog/ai-vulnerability-deep-dive-prompt-injection/)
 - [Prompt Injection Cheat Sheet — Seclify](https://blog.seclify.com/prompt-injection-cheat-sheet/) — Practical cheat sheet for AI bot integrations
 - [Don't You (Forget NLP) — Dropbox Tech](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) — Injection via control characters
+- [hego.red - Practical AI/LLM Red Teaming Notes](https://hego.red/) - Hands-on guide: prompt injection, jailbreaks, indirect injection, RAG poisoning, agent and tool attacks, with a full methodology and worked labs
 
 ### 3.2 Jailbreaking Techniques
 
