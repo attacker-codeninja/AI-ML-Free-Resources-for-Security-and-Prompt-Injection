@@ -257,6 +257,7 @@ This provides a deterministic way to bound blast radius. Read: [Meta — Practic
 | PromptTrace | 7 labs + 15-level CTF with real-time context trace; uses GPT-4, Claude, Gemini | [prompttrace.airedlab.com](https://prompttrace.airedlab.com/) |
 | CrowdStrike AI Unlocked | Agent-focused prompt injection challenges by CrowdStrike (Feb 2026) | [crowdstrike.com](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/) |
 | AI/LLM Exploitation Challenges | AI, ML, LLM CTF challenges | [8ksec.io](https://academy.8ksec.io/course/ai-exploitation-challenges) |
+| LLMVault | Hands-on CTF-style LLM security lab with intentionally vulnerable challenges aligned to the OWASP Top 10 for LLM Applications | [github.com/CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) |
 
 ### 5.2 Vulnerable-by-Design Projects
 
